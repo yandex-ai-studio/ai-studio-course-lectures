@@ -8,3 +8,5 @@ python-dotenv
 requests
 tqdm
 yandex-ai-studio-sdk
+pyvis
+networkx
