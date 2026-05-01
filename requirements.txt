@@ -1,0 +1,10 @@
+matplotlib
+openai
+openai-agents
+pandas
+Pillow
+pydantic
+python-dotenv
+requests
+tqdm
+yandex-ai-studio-sdk
